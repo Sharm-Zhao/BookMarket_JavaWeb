@@ -48,7 +48,7 @@
 
 ![image-20210506210541349](C:\Users\Sharm\AppData\Roaming\Typora\typora-user-images\image-20210506210541349.png)
 
-3![image-20210506210629169](C:\Users\Sharm\AppData\Roaming\Typora\typora-user-images\image-20210506210629169.png)
+![image-20210506210629169](C:\Users\Sharm\AppData\Roaming\Typora\typora-user-images\image-20210506210629169.png)
 
 3 直接点击 IDEA 的运行按钮，便可直接运行
 

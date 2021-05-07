@@ -46,13 +46,13 @@
 
 2 依次点击如图，然后点击确认；
 
-![image-20210506210541349](C:\Users\Sharm\AppData\Roaming\Typora\typora-user-images\image-20210506210541349.png)
+![image-20210506210541349](https://raw.githubusercontent.com/Sharm-Zhao/Picture/main/BookMarket/bookmarket_1.png)
 
-![image-20210506210629169](C:\Users\Sharm\AppData\Roaming\Typora\typora-user-images\image-20210506210629169.png)
+![image-20210506210629169](https://raw.githubusercontent.com/Sharm-Zhao/Picture/main/BookMarket/bookmarket_2.png)
 
 3 直接点击 IDEA 的运行按钮，便可直接运行
 
-![image-20210506210722342](C:\Users\Sharm\AppData\Roaming\Typora\typora-user-images\image-20210506210722342.png)
+![image-20210506210722342](https://raw.githubusercontent.com/Sharm-Zhao/Picture/main/BookMarket/bookmarket_3.png)
 
 
 

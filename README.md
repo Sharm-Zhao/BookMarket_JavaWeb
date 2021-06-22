@@ -54,7 +54,7 @@
 
 ![image-20210506210722342](https://github.com/Sharm-Zhao/BookMarket_JavaWeb/blob/master/readme_picture3.png)
 
-（如果这三张图片显示不出，可以现在这个仓库到本地，这样就能正常显示图片）
+（如果这三张图片显示不出，可以先将这个仓库下载到本地，这样就能正常显示图片）
 
 
 

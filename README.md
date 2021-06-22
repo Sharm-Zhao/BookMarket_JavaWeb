@@ -46,13 +46,13 @@
 
 2 依次点击如图，然后点击确认；
 
-![image-20210506210541349](https://raw.githubusercontent.com/Sharm-Zhao/Picture/main/BookMarket/bookmarket_1.png)
+![image-20210506210541349](https://github.com/Sharm-Zhao/BookMarket_JavaWeb/blob/master/readme_picture1.png)
 
-![image-20210506210629169](https://raw.githubusercontent.com/Sharm-Zhao/Picture/main/BookMarket/bookmarket_2.png)
+![image-20210506210629169](https://github.com/Sharm-Zhao/BookMarket_JavaWeb/blob/master/readme_picture2.png)
 
 3 直接点击 IDEA 的运行按钮，便可直接运行
 
-![image-20210506210722342](https://raw.githubusercontent.com/Sharm-Zhao/Picture/main/BookMarket/bookmarket_3.png)
+![image-20210506210722342](https://github.com/Sharm-Zhao/BookMarket_JavaWeb/blob/master/readme_picture3.png)
 
 
 
